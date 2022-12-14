@@ -5,6 +5,15 @@
 在之后的snapShot里面需要使用到
 
 
+
+# 一、组成 
+1. 图: graph(无向图), diagraph(有向图)
+2. 子图: subgraph
+3. 节点
+4. 边
+5. 属性
+
+
 # 命令行格式
 将test.dot文件转成test.jpg保存
 
