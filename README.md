@@ -26,7 +26,7 @@
 # 简单写法
 test.dot
 ```
-digraph MyGraph
+digraph MyGraph//有向图
 {
   a ->b ->c;
   d ->b;
@@ -35,3 +35,11 @@ digraph MyGraph
 # 结果
 ![image](https://user-images.githubusercontent.com/19707595/207047048-c6dfad31-b69c-4627-b33f-b19ffb70e651.jpg)
 
+
+```
+graph//无向图
+{
+	a--b--c;
+	b--d;
+}
+```
