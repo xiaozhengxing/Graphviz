@@ -43,3 +43,4 @@ graph//无向图
 	b--d;
 }
 ```
+![image](https://github.com/xiaozhengxing/Graphviz/blob/main/imgs/%E6%97%A0%E5%90%91%E5%9B%BE.jpg)
